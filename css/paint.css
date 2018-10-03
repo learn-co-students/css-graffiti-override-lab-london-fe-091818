@@ -24,10 +24,10 @@ body {
   height: 622px;
 }
 
-.tag-1 {
+#wall.tag-1 {
   background: url(../images/tag-1.png) no-repeat;
   z-index: 7;
-  display: block;
+  display: none;
 }
 
 #wall #tag-2 {
